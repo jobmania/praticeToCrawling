@@ -1,2 +1,4 @@
-package selenium;public class _Gmarket {
+package selenium;
+
+public class _Gmarket {
 }
