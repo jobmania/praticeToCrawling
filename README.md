@@ -53,5 +53,5 @@ select("table > tr td > img.a") : table 밑에 있는 img 클래스 이름이 a 
 ---------------------------------------
 
 Selenium 가이드
-[https://velog.io/@joyoo1221/%EC%9E%90%EB%B0%94-%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80selenium%EC%9C%BC%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0-1]
-https://www.selenium.dev/documentation/webdriver/elements/finders/
+[셀레니움 예시](https://velog.io/@joyoo1221/%EC%9E%90%EB%B0%94-%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80selenium%EC%9C%BC%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0-1)
+[셀레니움 가이드](https://www.selenium.dev/documentation/webdriver/elements/finders/)
